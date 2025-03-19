@@ -13,8 +13,8 @@ Paul Ramos - Unity Version Control ,Scenes, Enemy and Character functions
 Xiomar Rubalcava- UI,HUD, and Supplimentary functions
 
 Reed- Game Sounds 
-Alex
-Devean - Weapon Pick up, Related Game Events, 
+Alex 
+Devean - Weapon Pick up, Related Game Events, Player Shooting/Movement
 
 
 Unity store Assests that dont fit but can be installed using package manager:
